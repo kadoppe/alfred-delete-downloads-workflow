@@ -1,0 +1,5 @@
+---
+path: workflow
+domain: com.kadoppe
+id: alfred-delete-downloads
+dropbox: ~/Dropbox/Alfred
